@@ -1,4 +1,4 @@
-# Real Estate Analytics 🏘️📊
+# Real Estate Market Insights with Predictive Analytics 🏘️📊
 
 A comprehensive data analytics project focused on exploring, cleaning, modeling, and interpreting real estate market data to uncover trends and insights. This project covers the full data workflow and uses real-world datasets scraped from housing listings.
 

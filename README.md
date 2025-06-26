@@ -74,9 +74,10 @@ To analyze real estate data and answer key business questions such as:
 
 ## 👨‍💻 Author
 
-**Dev Parmar**
+**Devraj Parmar**
+[GitHub](https://github.com/17devraj) | [LinkedIn](https://linkedin.com/in/devraj-parmar)
+
+## Reviewer
+
+**Dr. Wali Abdullah**
 [GitHub](https://github.com/17devraj) | [LinkedIn](https://linkedin.com/in/yourprofile)
-
-## 📝 License
-
-This project is licensed under the [MIT License](LICENSE).

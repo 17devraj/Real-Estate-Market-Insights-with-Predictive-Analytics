@@ -80,4 +80,4 @@ To analyze real estate data and answer key business questions such as:
 ## Reviewer
 
 **Dr. Wali Abdullah**
-[GitHub](https://github.com/17devraj) | [LinkedIn](https://linkedin.com/in/yourprofile)
+[GitHub](https://github.com/WaliAbdullah) | [LinkedIn](https://www.linkedin.com/in/wali-mohammad-abdullah/)

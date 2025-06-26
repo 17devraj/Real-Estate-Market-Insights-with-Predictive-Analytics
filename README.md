@@ -77,7 +77,7 @@ To analyze real estate data and answer key business questions such as:
 **Devraj Parmar**
 [GitHub](https://github.com/17devraj) | [LinkedIn](https://linkedin.com/in/devraj-parmar)
 
-## Reviewer
+## 👨‍🏫 Reviewer
 
 **Dr. Wali Abdullah**
 [GitHub](https://github.com/WaliAbdullah) | [LinkedIn](https://www.linkedin.com/in/wali-mohammad-abdullah/)

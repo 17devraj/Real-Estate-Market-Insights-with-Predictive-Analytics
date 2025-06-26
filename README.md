@@ -28,8 +28,8 @@ To analyze real estate data and answer key business questions such as:
 
 ```
 ├── Real_Estate_Analytics.ipynb   # Main Jupyter notebook with full analysis pipeline
-├── dataset/
-│   └── chappelle_listings.csv    # Example real estate data from Zolo.ca (Chappelle area)
+├── main.py                       # Main Python file with full extraction code
+├── real estate final.csv         # Extracted real estate data from City of Edmonton's API
 ├── README.md                     # Project documentation
 ```
 

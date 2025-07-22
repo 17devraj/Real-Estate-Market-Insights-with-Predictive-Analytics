@@ -51,17 +51,13 @@ This project analyzes real estate market data from the City of Edmonton to provi
 
 ```
 Real-Estate-Market-Insights-with-Predictive-Analytics/
-├── 📓 Real_Estate_Analytics.ipynb    # Main analysis notebook with complete pipeline
-├── 🐍 scrape.py                        # Data extraction script from Edmonton API
-├── 📊 real estate final.csv          # Processed real estate dataset
-├── 📋 README.md                      # Project documentation (this file)
-├── 📈 analysis_report.pdf            # Detailed analysis report (if available)
-├── 🎯 presentation.pptx              # Project presentation slides (if available)
-└── 📁 outputs/                       # Generated visualizations and model outputs
-    ├── correlation_matrix.png
-    ├── price_distribution.png
-    ├── feature_importance.png
-    └── model_performance_metrics.json
+├── 📓 Real_Estate_Analytics.ipynb                # Main analysis notebook with complete pipeline
+├── 🐍 scrape.py                                  # Data extraction script from Edmonton API
+├── 📊 real estate final.csv                      # Processed real estate dataset
+├── 📋 README.md                                  # Project documentation
+├── 📈 analysis_report.pdf                        # Detailed analysis report
+├── 🎯 Real_Estate_Visualizarion.pbix             # Data Visualization using Power BI
+└── 💳 Real_Estate_Visualizarion.png              # Snapshot of PowerBI Dashboard
 ```
 
 ## ⚙️ Installation & Setup
@@ -190,10 +186,6 @@ We welcome contributions to enhance this project! Areas for contribution:
 - Advanced machine learning models
 - Enhanced visualizations
 - Performance optimizations
-
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
 
 ## 🏆 Acknowledgments
 

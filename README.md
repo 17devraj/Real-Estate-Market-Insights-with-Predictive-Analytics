@@ -56,8 +56,8 @@ Real-Estate-Market-Insights-with-Predictive-Analytics/
 ├── 📊 real estate final.csv                      # Processed real estate dataset
 ├── 📋 README.md                                  # Project documentation
 ├── 📈 analysis_report.pdf                        # Detailed analysis report
-├── 🎯 Real_Estate_Visualizarion.pbix             # Data Visualization using Power BI
-└── 💳 Real_Estate_Visualizarion.png              # Snapshot of PowerBI Dashboard
+├── 🎯 Real_Estate_Visualization.pbix             # Data Visualization using Power BI
+└── 💳 Real_Estate_Visualization.png              # Snapshot of PowerBI Dashboard
 ```
 
 ## ⚙️ Installation & Setup

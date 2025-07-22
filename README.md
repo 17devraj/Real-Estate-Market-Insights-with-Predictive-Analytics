@@ -147,6 +147,9 @@ The project generates comprehensive visualizations including:
 - Feature importance ranking charts
 - Model performance comparison plots
 - Time series trend analysis
+  | Image 1 | Image 2 |
+|---------|---------|
+| ![Image 1](Real_Estate_Visualization.png) | ![Image 2](assets/image2.png) |
 
 ## 🎯 Business Applications
 

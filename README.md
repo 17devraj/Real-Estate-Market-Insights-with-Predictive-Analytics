@@ -138,18 +138,9 @@ Real-Estate-Market-Insights-with-Predictive-Analytics/
 - **Location Premium**: Downtown properties command 25-30% price premium
 - **Seasonal Trends**: Q2-Q3 showing highest market activity
 
-## 📊 Visualizations & Outputs
+## 📊 Visualizations Dashboard
 
-The project generates comprehensive visualizations including:
-- Interactive price distribution histograms
-- Correlation heatmaps with statistical significance
-- Geospatial property value mapping
-- Feature importance ranking charts
-- Model performance comparison plots
-- Time series trend analysis
-  | Image 1 | Image 2 |
-|---------|---------|
-| ![Image 1](Real_Estate_Visualization.png) | ![Image 2](assets/image2.png) |
+![Image 1](Real_Estate_Visualization.png)
 
 ## 🎯 Business Applications
 

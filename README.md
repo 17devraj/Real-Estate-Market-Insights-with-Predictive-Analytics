@@ -199,7 +199,6 @@ We welcome contributions to enhance this project! Areas for contribution:
 **Devraj Parmar**
 - 🌐 [GitHub](https://github.com/17devraj)
 - 💼 [LinkedIn](https://linkedin.com/in/devraj-parmar)
-- 📧 Email: [Contact via GitHub]
 
 ### 👨‍🏫 Academic Supervisor
 **Dr. Wali Abdullah**

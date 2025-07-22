@@ -52,7 +52,7 @@ This project analyzes real estate market data from the City of Edmonton to provi
 ```
 Real-Estate-Market-Insights-with-Predictive-Analytics/
 ├── 📓 Real_Estate_Analytics.ipynb    # Main analysis notebook with complete pipeline
-├── 🐍 main.py                        # Data extraction script from Edmonton API
+├── 🐍 scrape.py                        # Data extraction script from Edmonton API
 ├── 📊 real estate final.csv          # Processed real estate dataset
 ├── 📋 README.md                      # Project documentation (this file)
 ├── 📈 analysis_report.pdf            # Detailed analysis report (if available)
@@ -97,7 +97,7 @@ Real-Estate-Market-Insights-with-Predictive-Analytics/
 
 5. **Run Data Extraction** (Optional - data already included)
    ```bash
-   python main.py
+   python scrape.py
    ```
 
 ## 📈 Analysis Workflow
@@ -183,13 +183,6 @@ The project generates comprehensive visualizations including:
 - **Sentiment Analysis**: Social media and news impact on prices
 - **Economic Integration**: Macro-economic factor correlation
 
-## 📚 Documentation & Resources
-
-- **Technical Report**: Detailed methodology and findings documentation
-- **API Documentation**: City of Edmonton data source specifications
-- **Model Documentation**: Algorithm selection rationale and performance metrics
-- **User Guide**: Step-by-step analysis reproduction instructions
-
 ## 🤝 Contributing
 
 We welcome contributions to enhance this project! Areas for contribution:
@@ -197,7 +190,6 @@ We welcome contributions to enhance this project! Areas for contribution:
 - Advanced machine learning models
 - Enhanced visualizations
 - Performance optimizations
-- Documentation improvements
 
 ## 📄 License
 
@@ -221,13 +213,6 @@ This project is open source and available under the [MIT License](LICENSE).
 **Dr. Wali Abdullah**
 - 🌐 [GitHub](https://github.com/WaliAbdullah)
 - 💼 [LinkedIn](https://www.linkedin.com/in/wali-mohammad-abdullah/)
-
-## 📞 Contact & Support
-
-For questions, suggestions, or collaboration opportunities:
-- Open an issue in this repository
-- Connect via LinkedIn
-- Email through GitHub profile
 
 ---
 

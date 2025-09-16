@@ -1,10 +1,18 @@
 # Real Estate Market Insights with Predictive Analytics 🏘️📊
 
-A comprehensive data science project that leverages machine learning and statistical analysis to extract meaningful insights from real estate market data. This project demonstrates the complete data science pipeline from data extraction and cleaning to advanced predictive modeling and business intelligence reporting.
+A real-world data science project that leverages **open data, machine learning, and business intelligence tools** to predict property prices and provide neighborhood-wise insights into Edmonton’s housing market.  
+
+The project bridges a key gap: while Edmonton’s property data is publicly available, it’s often **not user-friendly** for buyers, sellers, or investors. Most decisions are still made through word of mouth. This project aims to **turn raw data into actionable insights** — helping people understand fair property values and market dynamics at the neighborhood level.  
 
 ## 🎯 Project Overview
 
-This project analyzes real estate market data from the City of Edmonton to provide actionable insights for investors, real estate professionals, and market analysts. Through advanced data analytics and machine learning techniques, we explore market trends, predict property values, and identify investment opportunities.
+This project analyzes **City of Edmonton’s Open Data** on residential properties to build a **predictive model for property valuation** and create **market analysis dashboards**.  
+
+The pipeline includes:  
+- Extracting and cleaning raw data (CSV format)  
+- Performing **exploratory data analysis (EDA)** and correlation studies  
+- Applying **machine learning models** for price prediction  
+- Building a **Power BI dashboard** for neighborhood-wise insights  
 
 ### Key Research Questions
 - What are the primary factors that influence housing prices in Edmonton?
@@ -15,12 +23,11 @@ This project analyzes real estate market data from the City of Edmonton to provi
 
 ## 🚀 Project Highlights
 
-- **Comprehensive Data Pipeline**: End-to-end data extraction from City of Edmonton's Open Data API
-- **Advanced Analytics**: Statistical analysis with correlation studies and feature importance ranking
-- **Machine Learning Models**: Multiple algorithms including Random Forest, Logistic Regression, and ensemble methods
-- **Interactive Visualizations**: Dynamic charts and geospatial analysis using Plotly and Seaborn
-- **Business Intelligence**: Actionable insights with ROI analysis and market recommendations
-- **Professional Reporting**: Detailed analysis report with executive summary and technical appendix
+- **End-to-End Pipeline**: From raw Edmonton Open Data to predictive insights  
+- **Comprehensive EDA**: Normalization, outlier handling, feature correlation  
+- **Machine Learning Models**: Random Forest (best accuracy), Gradient Boosting, Decision Tree, Linear/Ridge/Lasso Regression, SVM  
+- **Visualization**: Power BI dashboard with interactive filters and neighborhood-level market analysis  
+- **Actionable Outcomes**: Helps buyers, sellers, and analysts understand where and why property values differ across Edmonton  
 
 ## 📊 Key Findings & Insights
 
@@ -39,6 +46,7 @@ This project analyzes real estate market data from the City of Edmonton to provi
 - **Scikit-learn**: Machine learning algorithms and model evaluation
 
 ### Visualization & Reporting
+- **Power BI** → neighborhood-level dashboard and business intelligence 
 - **Matplotlib & Seaborn**: Statistical visualizations
 - **Plotly**: Interactive charts and geospatial mapping
 - **Jupyter Widgets**: Interactive dashboard components

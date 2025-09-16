@@ -140,7 +140,6 @@ Real-Estate-Market-Insights-with-Predictive-Analytics/
 - **Price Correlation**: Strong positive correlation (r=0.78) between square footage and price
 - **Location Premium**: Downtown properties command 25-30% price premium
 - **Seasonal Trends**: Q2-Q3 showing highest market activity
-
 - **Price Prediction Accuracy**: Achieved 85%+ accuracy in property price category classification
 - **Feature Importance**: Square footage, location, and listing priority are top price predictors
 - **Market Trends**: Identified seasonal patterns and emerging neighborhood hotspots

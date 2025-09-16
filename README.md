@@ -119,6 +119,10 @@ Real-Estate-Market-Insights-with-Predictive-Analytics/
 
 ### 3. Machine Learning Pipeline
 - **Model Selection**: Comparison of multiple algorithms
+- Linear Regression, Ridge, Lasso → baseline models
+- Decision Tree & SVM → nonlinear performance tests
+- Gradient Boosting & Random Forest → ensemble approaches
+- Random Forest emerged as the best-performing model with highest accuracy
 - **Feature Selection**: Identifying most predictive variables
 - **Model Training**: Cross-validation and hyperparameter tuning
 - **Performance Evaluation**: Accuracy, precision, recall, and F1-score metrics
@@ -152,7 +156,7 @@ Real-Estate-Market-Insights-with-Predictive-Analytics/
 
 ## 🎯 Business Applications
 
-### For Real Estate Investors
+### For Real Estate Investors/Buyers
 - **Portfolio Optimization**: Data-driven property selection
 - **Risk Management**: Market volatility assessment
 - **Timing Analysis**: Optimal buy/sell timing recommendations
@@ -181,14 +185,6 @@ Real-Estate-Market-Insights-with-Predictive-Analytics/
 - **Sentiment Analysis**: Social media and news impact on prices
 - **Economic Integration**: Macro-economic factor correlation
 
-## 🤝 Contributing
-
-We welcome contributions to enhance this project! Areas for contribution:
-- Additional data sources and features
-- Advanced machine learning models
-- Enhanced visualizations
-- Performance optimizations
-
 ## 🏆 Acknowledgments
 
 - **City of Edmonton**: For providing comprehensive open data access
@@ -210,5 +206,3 @@ We welcome contributions to enhance this project! Areas for contribution:
 ---
 
 **⭐ If you find this project helpful, please consider giving it a star!**
-
-*Last Updated: July 2025*

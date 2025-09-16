@@ -29,14 +29,6 @@ The pipeline includes:
 - **Visualization**: Power BI dashboard with interactive filters and neighborhood-level market analysis  
 - **Actionable Outcomes**: Helps buyers, sellers, and analysts understand where and why property values differ across Edmonton  
 
-## 📊 Key Findings & Insights
-
-- **Price Prediction Accuracy**: Achieved 85%+ accuracy in property price category classification
-- **Feature Importance**: Square footage, location, and listing priority are top price predictors
-- **Market Trends**: Identified seasonal patterns and emerging neighborhood hotspots
-- **Investment Opportunities**: Highlighted undervalued areas with high growth potential
-- **Risk Assessment**: Developed risk metrics for different property types and locations
-
 ## 🛠️ Technical Stack
 
 ### Programming & Analytics
@@ -53,7 +45,6 @@ The pipeline includes:
 
 ### Data Sources
 - **City of Edmonton Open Data Portal**: Real estate transactions and property data
-- **Geospatial APIs**: Location-based analytics and mapping
 
 ## 📂 Repository Structure
 
@@ -150,6 +141,12 @@ Real-Estate-Market-Insights-with-Predictive-Analytics/
 - **Location Premium**: Downtown properties command 25-30% price premium
 - **Seasonal Trends**: Q2-Q3 showing highest market activity
 
+- **Price Prediction Accuracy**: Achieved 85%+ accuracy in property price category classification
+- **Feature Importance**: Square footage, location, and listing priority are top price predictors
+- **Market Trends**: Identified seasonal patterns and emerging neighborhood hotspots
+- **Investment Opportunities**: Highlighted undervalued areas with high growth potential
+- **Risk Assessment**: Developed risk metrics for different property types and locations
+
 ## 📊 Visualizations Dashboard
 
 ![Image 1](Real_Estate_Visualization.png)
@@ -165,11 +162,6 @@ Real-Estate-Market-Insights-with-Predictive-Analytics/
 - **Market Analysis**: Comprehensive neighborhood reports
 - **Pricing Strategy**: Competitive pricing recommendations
 - **Client Advisory**: Evidence-based market guidance
-
-### For Policy Makers
-- **Market Monitoring**: Real-time market health indicators
-- **Urban Planning**: Development opportunity identification
-- **Economic Impact**: Housing market contribution to local economy
 
 ## 🔮 Future Enhancements
 

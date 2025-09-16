@@ -87,7 +87,7 @@ Real-Estate-Market-Insights-with-Predictive-Analytics/
 
 4. **Launch Jupyter Notebook**
    ```bash
-   opem Real_Estate_Analytics.ipynb
+   jupyter notebook Real_Estate_Analytics.ipynb
    ```
 
 5. **Run Data Extraction** (Optional - data already included)
@@ -96,7 +96,7 @@ Real-Estate-Market-Insights-with-Predictive-Analytics/
    ```
    
 6. **View Dashboard**
--  Open Edmonton_Real_Estate.pbix in Power BI Desktop
+-  Open Real_Estate_Visualization.pbix in Power BI Desktop
 
 ## 📈 Analysis Workflow
 
